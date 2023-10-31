@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ammuv143
 - 👀 I’m interested in developing a ott platform
-- 🌱 I’m currently learning compurter science and engeneering
+- 🌱 I’m currently learning compurter science and engineering
 - 💞️ I’m looking to collaborate on ott platform based projects
 - 📫 How to reach me email:shambhavivasu143463@gmai.com
 
