@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing a ott platform
 - 🌱 I’m currently learning compurter science and engineering
 - 💞️ I’m looking to collaborate on ott platform based projects
-- 📫 How to reach me email:shambhavivasu143463@gmai.com
+- 📫 How to reach me email:shambhavivasu143463@gmail.com
 
 <!---
 ammuv143/ammuv143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
